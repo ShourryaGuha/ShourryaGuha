@@ -13,4 +13,4 @@ Some of my current projects are:
 * Animedoro Productivity App, _Flutter_
 * Snakes and Ladders, _Java_
 
-Connect with me on [LinkedIn](www.linkedin.com/in/shourrya-guha)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shourrya-guha/)
